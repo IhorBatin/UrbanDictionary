@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UrbanDictionaryNike</string>
+    <string name="enter_word">Enter Word</string>
+    <string name="searchTermNotFoundMsg">No definitions were found for \"%s\"</string>
+    <string name="searchTermMsg">Enter a term to search</string>
+    <string name="done">Done</string>
+    <string name="sort_by">Sort By</string>
+</resources>
